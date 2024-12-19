@@ -1,0 +1,3 @@
+Gustav og Elizabeth Durst er overhovederne af Durst familien. De har to børn, Thorn og Rosa. De sidste barn er undfanget af Gustav og stuepigen. Barnet hedder Walter.
+
+Vi møder dem ved et stort mansion kaliber hus, Durst familiens hus. Mange overnaturlige ting sker i dette hus, blandt andet at børnene, som vi møder udenfor er genfærd, som gerne vil blive lagt til hvile. Gustav og Elizabeth er en del af Orebos kulten, og det virker til at de har ofret en del mennesker nede i deres hemmelige kælder.
