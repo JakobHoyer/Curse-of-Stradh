@@ -1,8 +1,6 @@
 <img align="right" width="400" src="https://github.com/user-attachments/assets/2f397324-1321-4b24-97d8-327f19819a4d">
 
 # DHOR DRAVRIK 
-
-
 *Ooohh min ven! Godt at se dig! Kom, sæt dig her og lad os drikke en kop mjød ved den varme ild*
 
 ## Introduktion
