@@ -2,6 +2,8 @@
 
 *Ooohh min ven! Godt at se dig! Kom, sæt dig her og lad os drikke en kop mjød ved den varme ild*
 
+![Dhor Dravrik](file:///C:/Users/henri/OneDrive%20-%20Danmarks%20Tekniske%20Universitet/Dokumenter/DnD%20Dhor%20Dravrik/Dhor%20Dravrik%20Profile%20Pic.jpg)
+
 ## Introduktion
 Ved bålet ser I en stor, grov figur. 
 Som han vender sig rundt efter jer, ser I et smilende varmt ansigt. Der er et par rynker rundt omkring og et langt ar præger ansigtet og fortæller om dværgens lange levealder. 
