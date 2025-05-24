@@ -1,0 +1,1 @@
+Graver for kirken i byen. Han er meget syg med feber da vi ankommer. Han er et barn af børnehjemmet men er nu gammel nok til at tjene penge selv, og dermed er blevet graver for at tjene penge til børnehjemmet.
