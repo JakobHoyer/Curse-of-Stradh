@@ -1,0 +1,2 @@
+
+Patron: Uduszenie
