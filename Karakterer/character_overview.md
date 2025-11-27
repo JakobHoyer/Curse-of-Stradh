@@ -12,12 +12,12 @@
 - **Jorjo titel** fra Vestani (Session 10)
 - Gemte sig i lort under Strahd-raid (nat 20!) (Session 11)
 
-### TREFOR/JACOB (Jacob)
+### TREFOR (Jacob)
 **Klasse/Race:** Warlock? Demon-bloodline? | **Status:** Aktiv, **VAREULV**
 - Skeletvinger, demon-transformation, kan heale
 - **Bidt af lycanthrope** (Session 13)
 - **Transformerede til vareulv** (Session 16)
-- Hedder nu Jacob, ingen trøje
+- ingen trøje
 - "The Boy Who Lived" (flere gange)
 - **Pact of Blade** på Sir Garricks sværd (Session 16)
 
@@ -87,7 +87,7 @@
 ## 🏘️ BAROVIA BY (Session 4)
 
 ### ISMARK KOLYANOVICH (Yanovich familie) - Ny Borgmester
-- Søn af gammel borgmester (død af hjertestop pga. Strahd - **død da party ankom**)
+- Søn af gammel borgmester (død af hjertestop pga. Strahd - **død kort inden party ankom**)
 - Bror til Irena
 - Hyrede party: 500gp for at eskortere Irena til Vallaki
 
@@ -228,7 +228,7 @@ I Baronens lomme
 ### MADAM EVA - The Elder, Seer
 **Tzer Pool Lejr (Session 5)**
 - Spåkone, kendte party allerede
-- **5 Tarot kort:**
+- **5 Tarot kort:** (skal lige genevalueres)
   - "De To Sværd" - historien (livsblod, trykt virkelighed)
   - "De To Mønter" - godhed/sikkerhed
   - "De Ti Øjne"
