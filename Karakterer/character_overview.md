@@ -70,28 +70,35 @@
 - Raid på Vallaki (Session 11) - fireball'd Henrik, forsøgte at rizze Irena (FEJLEDE)
 - Trådte ind i Skt. Andrel Kirke
 
-**Relationer:**
-- Obsessed med **Irena** (Tatiana reinkarnation?)
-- Vestani i hans good graces (reddede ham engang)
-- Rahadin tjener ham "i århundreder"
-- Dræbte alle kvindelige mørkelvere (hævn for Kasimers søster)
+### RAHADIN - Strahds Kammertjener
+**Mødt Session 6 på vej til Vallaki**
+- **Pompous Asshole**
+- Mørkelver (Drow)
+- Sort tøj, sort hår, drow-udseende
+- **Battleworn**
+- Tjent Strahds familie "i århundreder"
+- **Kan lave fortryllelser**
+- **Øjne lyser op**
+- På elegant karet med to kæmpe sorte heste (ingen kusk)
+- Lavede simpel besværgelse (kunne se Thera i busk)
 
 ---
 
 ## 🏘️ BAROVIA BY (Session 4)
 
-### ISMARK KOLYANOVICH - Ny Borgmester
-- Søn af gammel borgmester (død af hjertestop pga. Strahd)
+### ISMARK KOLYANOVICH (Yanovich familie) - Ny Borgmester
+- Søn af gammel borgmester (død af hjertestop pga. Strahd - **død da party ankom**)
 - Bror til Irena
 - Hyrede party: 500gp for at eskortere Irena til Vallaki
 
-### IRENA KOLYANOVICH
+### IRENA KOLYANOVICH (Yanovich familie)
 **Strahds Obsession, Rejser med Party**
 - 16-19 år, enormt smuk, rødt hår
 - Bidt to steder: håndled og hals
 - Næste bid = vampyr
 - Strahd har charmeret sig ind før
 - Thornleys sidste ord: "Vælg dig selv"
+- På eventyr for at finde et sted til hende
 
 ### DONNAVICH - Præst, Skt. Andrel Kirke (Barovia)
 - Slidt mand
@@ -99,20 +106,24 @@
 
 ### MARTHA ⚠️ - HAG (undslap Session 7)
 **Status:** Fjendtlig, På Fri Fod
+**Lokation:** Mølle (brændt ned Session 8)
 - 200 år gammel
 - Tærtesælger (narkotiske tærter)
-- Søstre: Bella ⚰️ og Ophelia ⚰️ (døde Session 7)
+- Høj kvinde i "Irmakjole", men ikke smuk
+- Søstre: **Bella** ⚰️ (Marthas datter, høj) og **Ophelia** ⚰️ (Bellas søster, grim stedsøster) - døde Session 7
 - Besøgte Dhor ethereally: "Din skæbne lader til at være forseglet" (Session 12)
+- **4 Obelisker bag møllen:** Aftegner hver en by og en sæson, ravne kredser, **bunke af tænder på sten i midten**
 
 ---
 
 ## 🏰 VALLAKI (Session 8-11)
 
 ### BARON VARGAS VALLARGOVICH - Tyrannisk Borgmester
-- Tvungne ugentlige festivaler
+- Tvungne ugentlige festivaler: **"Den Blændende Sols Festival"** (deltagerpligt!)
 - Brainwasher folk ("bedre mindset")
 - Party = scapegoats efter Strahd-raid
 - Thornley afslørte ved uheld Strahd-krypt til ham
+- Kone: **Lydia Petrovna**
 
 ### ISEK - Kaptajn af Garden
 "Har lidt en sjov arm"
@@ -123,22 +134,41 @@ I Baronens lomme
 - Milf i sort dress
 - Power hungry (som Baronen, mindre sindsyg)
 - Vil vælte Baronen, fjerne Isek
-- Sønner: Nikolaj & Karl (to hjerneceller tilsammen)
+- **Gammel familie, modalitet**
+- **Bliver i byen pga. hendes status**
+- **Ikke glad for borgmesteren og festivallerne**
+- Sønner: **Nikolaj & Karl Watcher** (to hjerneceller tilsammen, fretboy energy)
+- **Død far**
+- **Rig familie**
 - Datter (ses sjældent)
 
 ### RICHTAVIO - Karnevalsejer
 **Blue Water Inn, Vallaki**
-- Meget farverigt påklædt
+- Meget farverigt påklædt, **bard**
 - Har kærlighedsliv med hest
 - Været der en måned, ingen karneval holdt (sus)
 - Virker som om han spiller karakter
 - Advarede party: "I har gjort jer bemærket"
+- **Omrejsende karnival, kommer udefra tågen**
+- **Hans flamboyante karakter måske lidt overdrevet**
 
 ### BLUE WATER INN
-- **Danika** - Kromutter
+- **Danika Martikov** - Kromutter, bartender
 - **Erwin Marticov** - Kok, mand til Danika
 - Familie opererer **Wizard of Wines**
 - **Havde FØRSTE sten** for 10 år siden - forsvandt under hans vagt
+- **Børn: Brom og Brako** (kender Phreek og Myrtle)
+- **Udvist fra Wizard of Wines**
+
+### ULVEJÆGERE
+**Zoldar** (før skrevet Soldar)
+- Skaldet, skægget gut
+- Dækket med ulveklæder
+- En af de 2 bedste ulvejægere
+
+**Jevgeni** (før skrevet Jepgini)
+- Bedste ulvejæger (efter hans egen mening)
+- Bedre end Zoldar med en håndfuld
 
 ### SKT. ANDREL KIRKE (Vallaki)
 **Præst Lucian Petrovich**
@@ -153,14 +183,43 @@ I Baronens lomme
 
 ### SKT. ANDREL BØRNEHJEM ⚠️
 **Frøken Balesko** - Forstanderinde
-- Børn med skrammer
+- Klassisk forstanderinde
+- Børn med skrammer og kradser
 - Infernal runer på senge (mareridt, forbandelser)
 - **Felix** - 8-årig, demon i medaljon (dræbt Session 10)
-- **Cedric** - døde (ud af vindue)
+- **Cedric** - døde (ud af vindue) **for en uge siden**
+- **Største kniv mangler i køkkenet**
+- Stemning: respektfuldt
+- Børn fra meget forskellige baggrunde, mange har haft det hårdt
 
-**Phreek & Myrtle** - Børn party reddede
-- Far: **Alec Kochinko** (ørnen party dræbte Session 6)
-- Byttet til Martha for tærter
+### VAGTER
+
+**Bogan** (før skrevet Bogan)
+- Hyggelig vagt
+- Lukkede party ind
+- Genkender navnet Alec Kochinko
+- Hjalp med vampire spawn oprydning
+
+**Claudia**
+- Vagtleder
+- Meget påpasselig
+- Meget stiv i betrækket
+- Noterede party i "Den Sorte Bog"
+
+### ANDRE VALLAKI FOLK
+
+**Belinski** - Legetøjsmager
+
+**Bluto Krogarov** - Fisker
+- Kidnappede Arrabelle (druknet i sæk)
+- Kommer og går ved nordporten med fiskeudstyr
+- Senest haft vogn med ud
+- "Fiskene bed ikke" (derfor børneoffer)
+- Overleveret til myndighederne
+
+**Ernst Lardak** (før skrevet Ernst Erdak)
+- Kommer fra Fiona Watcher
+- Inviterer party på middag
 
 ---
 
@@ -239,15 +298,43 @@ I Baronens lomme
 - Info om mugge og leder med kæp
 
 ### DE 3 MYSTISKE STEN 💎
-**Gave vingård magiske evner**
+**Gave vingård magiske evner - "Kraften der giver gården livskraft"**
 
-**Oprindelse:** Troldmand ELLER **De 3 Fruer** (gamle guder)
+**Oprindelse:** Troldmand ELLER **De 3 Fruer** (gamle guder/Guden)
+- **Sagnet fortæller det stammer fra Guden**
 
 - **Sten 1:** Forsvandt for 10 år siden (Erwins ansvar)
-- **Sten 2:** Stjålet for måned siden til **Berez**
+- **Sten 2:** Stjålet for måned siden til **Berez** (fulgt dertil af Adrian)
 - **Sten 3:** Lige stjålet (Session 16) med Mold Earth spell
 
+**Beskrivelse:** Størrelse med granknogle, ligner lidt smaragder
+
 **Tab = mistede evne til bedste vin**
+
+### KAMP MOD SKOVFOLK (Session 15-16)
+**Fjender før kamp:**
+- **4 skovfolk:**
+  - 1 har sort grum stav (leder ånderne) - **DØD**
+  - 1 kvindelig i stuen (torturerer ravne)
+  - 1 kvindelig i kælderen (snakker med ånder)
+  - 1 mandlig på 1. sal (roder gennem papirer)
+  - **1 mandlig i 1. sals lastrum** (sort stor stav og ravn) - **TARGET, BESEJRET**
+- 8 ånder af én art
+- 8 ånder af anden art
+- 20 små ånder
+- 3 store vagtfugle af træ
+- Utal af små væsner
+
+**Resultat:**
+- **1 skovfolk stak af**
+- Knækkede træmandens stav
+
+**Gården:**
+- Ankom via tunnel
+- **Bedækket med farlige svampe og mos**
+- **Nødkasse i gården på stueetagen i glasblæseren**
+- **Skovfolkene befinder sig ved Yester Hill**
+- **Fuglevæsnerne befinder sig i mosen**
 
 ---
 
@@ -267,10 +354,58 @@ I Baronens lomme
 
 ---
 
-## 🗺️ VIGTIGE LOKATIONER (Ikke besøgt)
+## 🗺️ VIGTIGE LOKATIONER
+
+### TÅGEN
+- **Vestani kan vandre gennem tågen**
+- **Men kun op den gode vilje af Strahd**
+- Strahd ved altid hvem der kommer ind og ud
+
+### BAROVIA LANDET
+**Floder:**
+- **Ilvs flod** (Ilvis) - løber gennem landet, vampyrer kan ikke lide rindende vand
+- **Lake Zarovich** (Zarovich-søen)
+
+**Loot fra Death House (Akt 1):**
+- **Mos agater:** Pæne grønne sten, bruges til naturlige ting
+- **Karniol i lap (50-60g):** Stammer fra organer, har farve og tekstur som organer, bruges til forbandelser
+
+### VEJSKILTE VEST FOR VALLAKI:
+- Brez (Berez)
+- Baratok Sø
+- Krezk/Solenka Passet
+
+### SVALIK VEJEN MOD VALLAKI
+
+**Ilvs Flod (Ylvis):**
+- Mødt Vestani folket → sigøjnere
+
+**Port ved Vejkryds:**
+- **25m høj** med rester fra skulpturer
+- **Dyb, gammel magi omkring årtusinder** (naturlig)
+- **Sten anderledes end ved Ravenloft**
+- **Fra højere fjeld med rav-spor**
+- **"Ravrøde døre"** (Tarot reference!)
+
+### OBELISKER
+**Fundet to steder med samme tema:**
+
+**Ved Marthas Mølle:**
+- 4 stk
+- Aftegner hver en by og en sæson
+- Ravne kredser oppe
+- **Bunke af tænder på sten i midten**
+
+**Ved Wizard of Wines:**
+- **Tema: Jagt**
+- Stenen anderledes
+- **Obelisker er gamle**
+- Sten fra området
+- **Obeliskerne er ligesom porten** (samme magi?)
 
 ### YESTERHILL
 - Hvor plantefolk hænger ud
+- **Skovfolkene befinder sig her**
 - Muligvis en af de 3 sten
 
 ### BEREZ
@@ -278,6 +413,13 @@ I Baronens lomme
 - Monstre og plante-folk
 - **Tåge-egenskaber som Barovias kant**
 - En af de 3 sten muligvis her
+- Adrian fulgte spor hertil
+
+### LAKE ZAROVICH - HISTORIEN OM GLIMTET
+**På den anden side af søen:**
+- **Thera så lilla glimt og lidt røg i skoven**
+- **Den troldmand som for længe siden (10-15 år) udfordrede Strahd er blevet set på den anden side**
+- **I skoven er blevet set et lyn-glimt skud ned i søen**
 
 ### RAV TEMPEL
 - Set i Kasimers syner
@@ -285,7 +427,9 @@ I Baronens lomme
 
 ### RAVENLOFT - Strahds Slot
 - Nord for Barovia by
-- Tarot reference: "ravrøde porte" (Session 6)
+- **På klippeside**
+- Tarot reference: "ravrøde porte" (Session 6 - porten ved vejkryds!)
+- Tatiana kastede sig ud fra slottet
 
 ---
 
