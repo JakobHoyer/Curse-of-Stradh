@@ -12,7 +12,7 @@
 - **Jorjo titel** fra Vestani (Session 10)
 - Gemte sig i lort under Strahd-raid (nat 20!) (Session 11)
 
-### TREFOR (Jacob)
+### TREFOR (Jakob)
 **Klasse/Race:** Warlock? Demon-bloodline? | **Status:** Aktiv, **VAREULV**
 - Skeletvinger, demon-transformation, kan heale
 - **Bidt af lycanthrope** (Session 13)
