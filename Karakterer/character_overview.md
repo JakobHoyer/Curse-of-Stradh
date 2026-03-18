@@ -1,457 +1,338 @@
-# CURSE OF STRAHD - KARAKTER OVERSIGT
+# 🧙 Karakter Overblik
+*Curse of Strahd – Opdateret efter Session 22*
 
 ---
 
-## 🎲 PARTY CHARACTERS
+## 🪓 Dhor
+**Race:** Dværg | **Klasse:** Ukendt (blood magic / fighter) | **Hår:** Rødt (nu halvskaldet efter Abben)
 
-### RAKBAK SNIKSNAK (William)
-**Klasse/Race:** Ukendt | **Status:** Aktiv
-- Stor person, altid maske på (køn ukendt), teatermasker skifter
-- Ryg fyldt med **syre-ar** (Session 12)
-- Kan læse Infernal
-- **Jorjo titel** fra Vestani (Session 10)
-- Gemte sig i lort under Strahd-raid (nat 20!) (Session 11)
+### Status
+- ✅ Levende igen – Abben fiksede hans sjæl (gav rødt hår til Vasilka som betaling)
+- ⚠️ Sir Garricks sjæl sidder stadig delvist i ham – udbryder af og til "For Argenvost!"
+- Tidligere: var undead, grålig hud, livløs arm
 
-### TREFOR (Jakob)
-**Klasse/Race:** Warlock? Demon-bloodline? | **Status:** Aktiv, **VAREULV**
-- Skeletvinger, demon-transformation, kan heale
-- **Bidt af lycanthrope** (Session 13)
-- **Transformerede til vareulv** (Session 16)
-- ingen trøje
-- "The Boy Who Lived" (flere gange)
-- **Pact of Blade** på Sir Garricks sværd (Session 16)
+### Vigtige Begivenheder
+- Brugte blood magic første gang i Durst-villaen
+- Hjemsøgt af Martha i drømme: *"Din skæbne lader til at være forseglet"*
+- Sir Garricks sjæl gik ind i ham efter ridderens død – holder ham delvist "samlet"
+- Skalp-opereret af Abben – den ene side af hans hoved er nu skallet
+- Tvunget af Strahd til at afsløre knoglernes placering (mind-trick)
 
-### AMARA (Skotte - erstatter Thornley)
-**Klasse:** Bladesinger Wizard + College of Swords Bard | **Race:** Vestani
-**Status:** Aktiv | **Fra:** Session 12
-- Reddede Trefor fra ulv
-- Kom til Vallaki for Richtavio (blev afvist)
-
-### DHOR (Henrik)
-**Klasse/Race:** Dværg, Blood Magic | **Status:** Aktiv, **UNDEAD**
-- **Genopstod spontant som undead** (Session 11)
-- Sover ikke (#Twilight)
-- **Sir Garricks sjæl i ham** (Session 13) - mere rødhåret, grålig hud
-- Krop i forfald, sjæl fririver sig fra legeme (Session 16)
-- Sir Garricks sjæl holder ham sammen
-- Råbte "For Argenvost!" og angreb Thera (Session 16)
-
-### THERA (Elisa)
-**Klasse:** Ranger | **Race:** Elf | **Status:** Aktiv
-- **Tilbagevendende mareridt** om Thornley i brændende skov
-- Kasimer Velikoff (Drow leder) interesseret i hende
-- Skød deres hest ved uheld (Session 13)
-
-### THORNLEY ⚰️ (Skotte - DØD Session 11)
-**Klasse:** Bard? | **Race:** Halv-elf
-- Døde i kamp mod vampire spawn i Vallaki
-- Sidste ord til Irena: **"Vælg dig selv"**
-- Hjemsøger Thera's drømme
+### Søger
+- Spor af dværge i Barovia – har endnu ikke fundet noget
+- Kontrol over Sir Garrick-sjælen
 
 ---
 
-## 👑 MAJOR NPCS
+## 🗡️ Rakbak Sniksnak
+**Race:** Ukendt (altid maske på) | **Klasse:** Ukendt (fighter/rogue-agtig) | **Kendetegn:** Skifter teatermask gennem dagen
 
-### STRAHD VON ZAROVICH
-**Lord of Barovia, Ancient Vampire**
-**Lokation:** Ravenloft (slot nord for Barovia by)
+### Status
+- ✅ Levende og frisk
+- Bærer fortsat sin maske – ingen ved hvad han er under den
+- Ryggen er fuld af ar der ligner syrebrænding
 
-**Backstory (Session 15 - rød læderbog):**
-- Krigsherre, overtog Barovia med hær
-- Bror **Sergei** vandt **Tatianas** hjerte
-- Tatiana så Strahd som "så godt som død"
-- Lavede **pagt med døden**
-- Dræbte Sergei, blev vampyr
-- Tatiana kastede sig ud fra slot
-- **Sergei's sværd kan dræbe ham**
-
-**Mødt:**
-- Farens begravelse i Barovia (Session 4) - mobbede Ismark
-- Raid på Vallaki (Session 11) - fireball'd Henrik, forsøgte at rizze Irena (FEJLEDE)
-- Trådte ind i Skt. Andrel Kirke
-
-### RAHADIN - Strahds Kammertjener
-**Mødt Session 6 på vej til Vallaki**
-- **Pompous Asshole**
-- Mørkelver (Drow)
-- Sort tøj, sort hår, drow-udseende
-- **Battleworn**
-- Tjent Strahds familie "i århundreder"
-- **Kan lave fortryllelser**
-- **Øjne lyser op**
-- På elegant karet med to kæmpe sorte heste (ingen kusk)
-- Lavede simpel besværgelse (kunne se Thera i busk)
+### Vigtige Begivenheder
+- Halshugger Felix (dæmonbarnet) i Vallaki
+- Halshugger varulve-alpha Keril i grotten
+- Gemte sig i lort og slog nat 20 (legendarisk)
+- Fik titlen *jorjo* hos Vistanierne
+- Fandt medaljonen der holdt Felix' dæmon fanget
+- Intimiderede den overlevende varulv i grotten
 
 ---
 
-## 🏘️ BAROVIA BY (Session 4)
+## 🐺 Trefor
+**Race:** Menneske (?) | **Klasse:** Warlock (Pact of the Blade) | **Kendetegn:** Læderjakke, kjortel, rustning under
 
-### ISMARK KOLYANOVICH (Yanovich familie) - Ny Borgmester
-- Søn af gammel borgmester (død af hjertestop pga. Strahd - **død kort inden party ankom**)
-- Bror til Irena
-- Hyrede party: 500gp for at eskortere Irena til Vallaki
+### Status
+- ⚠️ **Varulv** – bidt gentagne gange, bekræftet lycantrop
+- Aftale med Dhor: Dhor hugger hans hoved af, hvis kirke-løsningen fejler
+- Binder Sir Garricks +1 greatsword til sin Pact of the Blade
 
-### IRENA KOLYANOVICH (Yanovich familie)
-**Strahds Obsession, Rejser med Party**
-- 16-19 år, enormt smuk, rødt hår
-- Bidt to steder: håndled og hals
-- Næste bid = vampyr
-- Strahd har charmeret sig ind før
-- Thornleys sidste ord: "Vælg dig selv"
-- På eventyr for at finde et sted til hende
+### Vigtige Begivenheder
+- Skeletnvinger springer ud af ryggen under kamp (dæmonisk natur?)
+- Bidt for første gang af varulve udenfor Kresk (Session 13)
+- Vågner nøgen ved Berez med halvspist hjort (Session 17)
+- Bryder sammen – beder Dhor slå ham ihjel
+- Lænket i lighuset i klosteret – overlever sin første varulvetransformation
+- Har "BESKIDT" skrevet i vasaller under sine skulderblade
+- Knækker Trefors forbandelse muligvis ved at dræbe øverste lykantrop? (Keril er dræbt – afventer)
 
-### DONNAVICH - Præst, Skt. Andrel Kirke (Barovia)
-- Slidt mand
-- Søn **Dovo** låst under kirke (næsten vampyr, overlevede troldmandens gruppe)
-
-### MARTHA ⚠️ - HAG (undslap Session 7)
-**Status:** Fjendtlig, På Fri Fod
-**Lokation:** Mølle (brændt ned Session 8)
-- 200 år gammel
-- Tærtesælger (narkotiske tærter)
-- Høj kvinde i "Irmakjole", men ikke smuk
-- Søstre: **Bella** ⚰️ (Marthas datter, høj) og **Ophelia** ⚰️ (Bellas søster, grim stedsøster) - døde Session 7
-- Besøgte Dhor ethereally: "Din skæbne lader til at være forseglet" (Session 12)
-- **4 Obelisker bag møllen:** Aftegner hver en by og en sæson, ravne kredser, **bunke af tænder på sten i midten**
+### Mulig Quest
+- Er Keril virkelig den øverste lykantrop? Forbandelsen er endnu ikke ophævet
 
 ---
 
-## 🏰 VALLAKI (Session 8-11)
+## 🌿 Thera
+**Race:** Elver | **Klasse:** Druid/Cleric (undead-detection, naturmagi)
 
-### BARON VARGAS VALLARGOVICH - Tyrannisk Borgmester
-- Tvungne ugentlige festivaler: **"Den Blændende Sols Festival"** (deltagerpligt!)
-- Brainwasher folk ("bedre mindset")
-- Party = scapegoats efter Strahd-raid
-- Thornley afslørte ved uheld Strahd-krypt til ham
-- Kone: **Lydia Petrovna**
+### Status
+- ✅ Levende
+- ⚠️ Hjemsøgt af Martha i drømme siden Session 12
+- Har *Aether Leaf* (til at rejse til Marthas plane) og *Remove Curse* scroll
 
-### ISEK - Kaptajn af Garden
-"Har lidt en sjov arm"
-I Baronens lomme
+### Vigtige Begivenheder
+- Berørte Thornley i hans dødsstund (hans farvel: "vælg dig selv")
+- Begynder at have mareridt om brændende skov med Thornley
+- Abben fortæller at hendes sjæl har "ar" og at hun bliver hjemsøgt af Martha
+- Er elver – Strahd har et særligt had mod elvere (dræbte alle kvindelige drow)
+- Kasimir Velikoff forsøgte at forføre hende (og tilbyde alliance mod Strahd)
 
-### FRU FIONA WATCHER - Anti-Baron, **STRAHD FAN**
-**Lokation:** Watcher Bolig, Vallaki
-- Milf i sort dress
-- Power hungry (som Baronen, mindre sindsyg)
-- Vil vælte Baronen, fjerne Isek
-- **Gammel familie, modalitet**
-- **Bliver i byen pga. hendes status**
-- **Ikke glad for borgmesteren og festivallerne**
-- Sønner: **Nikolaj & Karl Watcher** (to hjerneceller tilsammen, fretboy energy)
-- **Død far**
-- **Rig familie**
-- Datter (ses sjældent)
-
-### RICHTAVIO - Karnevalsejer
-**Blue Water Inn, Vallaki**
-- Meget farverigt påklædt, **bard**
-- Har kærlighedsliv med hest
-- Været der en måned, ingen karneval holdt (sus)
-- Virker som om han spiller karakter
-- Advarede party: "I har gjort jer bemærket"
-- **Omrejsende karnival, kommer udefra tågen**
-- **Hans flamboyante karakter måske lidt overdrevet**
-
-### BLUE WATER INN
-- **Danika Martikov** - Kromutter, bartender
-- **Erwin Marticov** - Kok, mand til Danika
-- Familie opererer **Wizard of Wines**
-- **Havde FØRSTE sten** for 10 år siden - forsvandt under hans vagt
-- **Børn: Brom og Brako** (kender Phreek og Myrtle)
-- **Udvist fra Wizard of Wines**
-
-### ULVEJÆGERE
-**Zoldar** (før skrevet Soldar)
-- Skaldet, skægget gut
-- Dækket med ulveklæder
-- En af de 2 bedste ulvejægere
-
-**Jevgeni** (før skrevet Jepgini)
-- Bedste ulvejæger (efter hans egen mening)
-- Bedre end Zoldar med en håndfuld
-
-### SKT. ANDREL KIRKE (Vallaki)
-**Præst Lucian Petrovich**
-- **Skt. Andrels knogler** stjålet (6 dage før Session 9)
-- Party reddede knogler (Session 11)
-- Sankt Andrels løfte: holder Strahd ude
-
-**Milivosh** - Graver, 19 år
-- **Solgte knogler til Henrik Van De Vort**
-- Magisk forpestet af demon-medaljon
-- Tidligere barn fra børnehjem
-
-### SKT. ANDREL BØRNEHJEM ⚠️
-**Frøken Balesko** - Forstanderinde
-- Klassisk forstanderinde
-- Børn med skrammer og kradser
-- Infernal runer på senge (mareridt, forbandelser)
-- **Felix** - 8-årig, demon i medaljon (dræbt Session 10)
-- **Cedric** - døde (ud af vindue) **for en uge siden**
-- **Største kniv mangler i køkkenet**
-- Stemning: respektfuldt
-- Børn fra meget forskellige baggrunde, mange har haft det hårdt
-
-### VAGTER
-
-**Bogan** (før skrevet Bogan)
-- Hyggelig vagt
-- Lukkede party ind
-- Genkender navnet Alec Kochinko
-- Hjalp med vampire spawn oprydning
-
-**Claudia**
-- Vagtleder
-- Meget påpasselig
-- Meget stiv i betrækket
-- Noterede party i "Den Sorte Bog"
-
-### ANDRE VALLAKI FOLK
-
-**Belinski** - Legetøjsmager
-
-**Bluto Krogarov** - Fisker
-- Kidnappede Arrabelle (druknet i sæk)
-- Kommer og går ved nordporten med fiskeudstyr
-- Senest haft vogn med ud
-- "Fiskene bed ikke" (derfor børneoffer)
-- Overleveret til myndighederne
-
-**Ernst Lardak** (før skrevet Ernst Erdak)
-- Kommer fra Fiona Watcher
-- Inviterer party på middag
+### Mulig Quest
+- Find Martha på hendes plane med Aether Leaf og dræb hende der
 
 ---
 
-## 🐺 VESTANI FOLK
+## 🎭 Amara
+**Race:** Vistani | **Klasse:** Bladesinger Wizard + College of Swords Bard
 
-### MADAM EVA - The Elder, Seer
-**Tzer Pool Lejr (Session 5)**
-- Spåkone, kendte party allerede
-- **5 Tarot kort:** (skal lige genevalueres)
-  - "De To Sværd" - historien (livsblod, trykt virkelighed)
-  - "De To Mønter" - godhed/sikkerhed
-  - "De Ti Øjne"
-  - "Tågen" - stærk allieret
-  - "Bødlen" - fjende
-- Quest: Find helligt kloster ved Krezk
+### Status
+- ✅ Levende
+- Ny karakter fra Session 12 (kom til Vallaki for at finde Richtavio)
 
-### ARAJA & RINA
-**Tzer Pool Lejr**
-- Araja: Leder, gave party skatte
-- Kan krydse tågen (kommer tilbage pga. familie)
-
-### LUVASH
-**Fast Vestani Lejr (Session 10)**
-- Far til Arrabelle, Vestani chef
-- Party gav skatte for at redde Arrabelle
-
-**ARRABELLE** - 8 år, Luvash's datter
-- Kidnappet af Bluto (druknet i sæk)
-- Reddet af party (Session 9)
-- Har synet/divination evner
-- Party fik **Jorjo titel**
-
-### KASIMER VELIKOFF - Drow Leder
-**Fast Vestani Lejr**
-- Søster blev Strahds concubine
-- Stenede hende for at redde hende - overlevede som vampyr
-- Strahd dræbte alle kvindelige mørkelvere (hævn)
-- Vil hjælpe hvis Thera siger ja
-- Har set syner om **rav tempel**
+### Vigtige Begivenheder
+- Reddede Trefor fra en ulv med et pileskud i Session 12
+- Hoodwinkede Bogan til at hyre gruppen som okkulte konsulenter
+- Disarmerede bomben i monsterjægerens karet
+- Stjal og loggede monsterjægerens ting
+- "Vietnam-ede" varulvene med napalm i grotten (skønsanser)
 
 ---
 
-## ⚔️ ARGYNVOST HOLD (Session 13)
+## ⚰️ Thornley *(Død – Session 11)*
+**Race:** Halvt Elver | **Klasse:** Bard (College of Swords?)
 
-### SIR GARRICK ⚰️ - Sidste Ridder af Sølvdragens Orden
-**Lokation:** T-kryds mod Krezk
-- 110+ år, blålig hud, langt hvidt skæg
-- Ridder af **Lord Argynvost**
-- Vanvittig bureaukrat
-- Dræbt af party
-- **Hans sjæl gik ind i Dhor**
-- **Loot:** +1 Greatsword (nu Trefors Pact Blade), platemail, skjold, ridderbevis
+### Hvad skete der
+- Dræbt i kampen mod vampyrspawn hos kistemager Henrik
+- Sidste ord til Irena: *"Vælg dig selv"*
+- Begravet ved kirken i Vallaki
 
-**Lord Argynvost**
-- Lord af **Argynvost Hold**
-- Papirer tusinde år gamle
+### Eftermæle
+- Hjemsøger Theras drømme – brændende skov med Thornley fanget indeni
+- Abben fortæller at Theras sjæl har "ar" – koblet til Thornleys død
 
 ---
 
-## 🍷 WIZARD OF WINES (Session 14-16)
-
-### MARTICOV FAMILIEN
-**Vingård under belejring af plantefolk**
-
-**Far Marticov** - Cunt, pikhovede, fucko
-
-**Adrian Marticov** - Storebror
-- Fortalte om de 3 sten
-
-**Elvir Marticov** - Bror til Erwin
-- Bror signal (flagermuslanterne)
-- Noget stort patruljerer himlen
-
-**Stefanie Marticov** - Datter
-- Glad for at se party (!)
-- Info om mugge og leder med kæp
-
-### DE 3 MYSTISKE STEN 💎
-**Gave vingård magiske evner - "Kraften der giver gården livskraft"**
-
-**Oprindelse:** Troldmand ELLER **De 3 Fruer** (gamle guder/Guden)
-- **Sagnet fortæller det stammer fra Guden**
-
-- **Sten 1:** Forsvandt for 10 år siden (Erwins ansvar)
-- **Sten 2:** Stjålet for måned siden til **Berez** (fulgt dertil af Adrian)
-- **Sten 3:** Lige stjålet (Session 16) med Mold Earth spell
-
-**Beskrivelse:** Størrelse med granknogle, ligner lidt smaragder
-
-**Tab = mistede evne til bedste vin**
-
-### KAMP MOD SKOVFOLK (Session 15-16)
-**Fjender før kamp:**
-- **4 skovfolk:**
-  - 1 har sort grum stav (leder ånderne) - **DØD**
-  - 1 kvindelig i stuen (torturerer ravne)
-  - 1 kvindelig i kælderen (snakker med ånder)
-  - 1 mandlig på 1. sal (roder gennem papirer)
-  - **1 mandlig i 1. sals lastrum** (sort stor stav og ravn) - **TARGET, BESEJRET**
-- 8 ånder af én art
-- 8 ånder af anden art
-- 20 små ånder
-- 3 store vagtfugle af træ
-- Utal af små væsner
-
-**Resultat:**
-- **1 skovfolk stak af**
-- Knækkede træmandens stav
-
-**Gården:**
-- Ankom via tunnel
-- **Bedækket med farlige svampe og mos**
-- **Nødkasse i gården på stueetagen i glasblæseren**
-- **Skovfolkene befinder sig ved Yester Hill**
-- **Fuglevæsnerne befinder sig i mosen**
+## 🐕 Lancelot *(Hund)*
+- Trofæ fra Durst-villaen
+- Løber generelt rundt og spiser forkerte ting (fx parteret hest)
+- Uofficielt gruppens mascot
 
 ---
 
-## 🏔️ KREZK (Session 14)
+## 📋 Gruppe Inventory (Vigtige Items)
 
-### DIMITRI KRESKOV - Borgmester
-- "Winter is coming" - afviste party
-- Vil have vin fra Wizard of Wines
-- Party må ikke se Abbotten før vin leveret
-- Ikke glad for Abbotten
-
-### ABBOTTEN
-**Helgen Markovias Kloster**
-- Overdådig mand, høj respekt
-- Mand af Morgenfyrsten og Nattensmoder
-- Kan måske hjælpe undead Dhor
-
----
-
-## 🗺️ VIGTIGE LOKATIONER
-
-### TÅGEN
-- **Vestani kan vandre gennem tågen**
-- **Men kun op den gode vilje af Strahd**
-- Strahd ved altid hvem der kommer ind og ud
-
-### BAROVIA LANDET
-**Floder:**
-- **Ilvs flod** (Ilvis) - løber gennem landet, vampyrer kan ikke lide rindende vand
-- **Lake Zarovich** (Zarovich-søen)
-
-**Loot fra Death House (Akt 1):**
-- **Mos agater:** Pæne grønne sten, bruges til naturlige ting
-- **Karniol i lap (50-60g):** Stammer fra organer, har farve og tekstur som organer, bruges til forbandelser
-
-### VEJSKILTE VEST FOR VALLAKI:
-- Brez (Berez)
-- Baratok Sø
-- Krezk/Solenka Passet
-
-### SVALIK VEJEN MOD VALLAKI
-
-**Ilvs Flod (Ylvis):**
-- Mødt Vestani folket → sigøjnere
-
-**Port ved Vejkryds:**
-- **25m høj** med rester fra skulpturer
-- **Dyb, gammel magi omkring årtusinder** (naturlig)
-- **Sten anderledes end ved Ravenloft**
-- **Fra højere fjeld med rav-spor**
-- **"Ravrøde døre"** (Tarot reference!)
-
-### OBELISKER
-**Fundet to steder med samme tema:**
-
-**Ved Marthas Mølle:**
-- 4 stk
-- Aftegner hver en by og en sæson
-- Ravne kredser oppe
-- **Bunke af tænder på sten i midten**
-
-**Ved Wizard of Wines:**
-- **Tema: Jagt**
-- Stenen anderledes
-- **Obelisker er gamle**
-- Sten fra området
-- **Obeliskerne er ligesom porten** (samme magi?)
-
-### YESTERHILL
-- Hvor plantefolk hænger ud
-- **Skovfolkene befinder sig her**
-- Muligvis en af de 3 sten
-
-### BEREZ
-- Farligt sump-område
-- Monstre og plante-folk
-- **Tåge-egenskaber som Barovias kant**
-- En af de 3 sten muligvis her
-- Adrian fulgte spor hertil
-
-### LAKE ZAROVICH - HISTORIEN OM GLIMTET
-**På den anden side af søen:**
-- **Thera så lilla glimt og lidt røg i skoven**
-- **Den troldmand som for længe siden (10-15 år) udfordrede Strahd er blevet set på den anden side**
-- **I skoven er blevet set et lyn-glimt skud ned i søen**
-
-### RAV TEMPEL
-- Set i Kasimers syner
-- Noget der kan hjælpe mod Strahd
-
-### RAVENLOFT - Strahds Slot
-- Nord for Barovia by
-- **På klippeside**
-- Tarot reference: "ravrøde porte" (Session 6 - porten ved vejkryds!)
-- Tatiana kastede sig ud fra slottet
+| Item | Hvem | Beskrivelse |
+|---|---|---|
+| **+1 Greatsword (Sir Garyk)** | Trefor | Bundet via Pact of the Blade – kan gemmes i pocket dimension |
+| **Platemail (Sir Garyk)** | Gruppen | Lootet fra Sir Garyk |
+| **Aether Leaf** | Gruppen | Kan sende gruppen til Marthas plane – fra Esmaralda |
+| **Remove Curse Scroll** | Gruppen | Fra Esmaralda |
+| **Magisk Morgenstjerne** | Gruppen | Stjålet fra monsterjægerens vogn |
+| **Sølv Crossbow + bolte** | Gruppen | Stjålet fra monsterjægerens vogn |
+| **Opdateret Barovia-kort** | Gruppen | Fra monsterjægerens vogn – viser varulve-grotte |
+| **Jernkiste med guld** | Rakbak | Valgt fra Vistani-skatten |
+| **Onyx-kiste med smykker + flakon** | (Thornley var ejer) | Thornleys Vistani-skat |
 
 ---
 
-## ⚰️ DØDE KARAKTERER
+## 🔗 Gruppe Relationer & Bånd
 
-**THORNLEY** ⚰️ Session 11
-**BELLA & OPHELIA** (Hags) ⚰️ Session 7
-**FELIX** (8-årig demon) ⚰️ Session 10
-**SIR GARRICK** ⚰️ Session 13
-**HENRIK VAN DE VORT** (Kistmager) ⚰️ Session 11 (fireball'd af Strahd)
-**ALEC KOCHINKO** (Ørn/Phreek & Myrtles far) ⚰️ Session 6
-**GUSTAV & ELISABETH DURST** ⚰️ Session 1-3
-
----
-
-## 🔮 MYSTISKE ENTITETER
-
-**DE 3 FRUER** - Gamle guder for egnen
-**OSYBUS KULTEN** - Okkulte bøger i Death House
-**MORGEN-FYRSTEN & NATTENS DRONNING** - Religiøse figurer
+- **Dhor ↔ Sir Garyk**: Sjælen er delvist i Dhor – volder ham lejlighedsvis kontrolproblemer
+- **Thera ↔ Thornley**: Drømmeforbindelse – Martha udnytter muligvis sorgen
+- **Trefor ↔ Forbandelsen**: Aftalen med Dhor hænger stadig over ham
+- **Gruppen ↔ Irena**: Ansvar for hendes sikkerhed – Strahd vil have hende
+- **Gruppen ↔ Esmaralda**: Ny alliance – mødes igen når Strahd skal dræbes
+- **Gruppen ↔ Kasimir**: Mulig allieret til ravtemplet – Thera skal svare ham
 
 ---
 
-**Nuværende Session:** 16
-**Party Level:** 6
+## 👥 NPC Overblik
+
+### 🩸 Fjender
+
+---
+
+#### Strahd von Zarovich
+**Type:** Vampyr | **Lokation:** Ravenloft (slottet)
+
+Den evige hersker over Barovia. Vampyr siden han lavede en pagt med Døden og dræbte sin bror Sergei for kærligheden Tatiana – som kastede sig ud fra slottet. Har et særligt had mod elvere. Hjemsøger og chikanerer gruppen løbende.
+
+- Tvang Dhor til at afsløre knoglernes placering via mind-trick
+- Angreb Vallaki midt i et tordenvejr (Session 11)
+- Mobber Ismark ved faderens begravelse
+- Forsøgte at charme Irena ind i kirken – fejlede
+
+**Svagheder:** Ukendte endnu – Madam Evas tarot peger på Sergeis sværd og andre artefakter
+
+---
+
+#### Martha ("Bedste")
+**Type:** Hag | **Lokation:** Ukendt plane of existence | **Alder:** ~200 år
+
+Sælger tærter i Barovia By – virker som en sød gammel dame, men er nok 200 år gammel og angriber fra et andet plan. Hendes tærter giver mareridt og koster max HP. Hendes to døtre, Bella og Ophelia, er dræbt af gruppen.
+
+- Syede noget ind i Dhors hoved (hjemsøgte ham etherisk)
+- Er nu begyndt at hjemsøge Thera i drømme
+- Angreb Thera i varulve-grotten – Esmaralda afværgede det med magi
+- Esmaralda gav gruppen *Aether Leaf* til at rejse hen til Marthas plane og nakke hende der
+
+---
+
+#### Rahadin
+**Type:** Menneske (drow-udseende) | **Lokation:** Rejser i Strahds tjeneste
+
+Strahds kammertjener. Meget farlig. Tjent Strahds familie i århundreder. Kom kørende i en førerløs karet og truede gruppen.
+
+---
+
+### 🤝 Allierede
+
+---
+
+#### Irena
+**Type:** Menneske | **Lokation:** Med gruppen | **Alder:** 16–19 år
+
+Ismarks søster. Smuk, rødhåret. Strahds "interesse" – han har bidt hende to gange (håndled og hals). En bid mere og hun bliver vampyr. Gruppen eskorterer hende for at holde hende sikker.
+
+- Siger nej til Strahds forsøg på at charme hende ind i kirken
+- Vil ikke have Abben til at afsøge hendes sjæl
+- Har sin frihed – ønsker ikke at tilbringe resten af livet i en kirke
+
+---
+
+#### Ismark Kolyarnovich
+**Type:** Menneske | **Lokation:** Barovia By
+
+Ny borgmester i Barovia By efter sin fars død. Hyrede gruppen til at eskortere Irena. Mobbet af Strahd ved faderens begravelse.
+
+---
+
+#### Esmaralda
+**Type:** Vistani | **Lokation:** På vej mod Borata Tårnet nær Kresk
+
+Kvindelig monsterjæger. Gruppen fandt og røvede hendes vogn – mødte hende bagefter i varulve-grotten. Vil ikke være en del af gruppen, men er positiv stemt. Leder efter sin læremester Von Richten.
+
+- Gav gruppen *Aether Leaf* og *Remove Curse* scroll
+- Beskyttede Thera magisk mod Marthas angreb
+- Vil hjælpe mod Strahd når den tid kommer
+
+---
+
+#### Von Richten
+**Type:** Menneske | **Lokation:** Muligvis Borata Tårnet nær Kresk
+
+Berømt monsterjæger fra Faerun. Esmaraldas læremester. Beskrives som "en cunt" men meget dygtig. Gruppen har endnu ikke mødt ham.
+
+---
+
+#### Madam Eva
+**Type:** Vistani (med fey-aura) | **Lokation:** Vistani-lejren ved Tzer Pool
+
+Den ældste i Vistani-lejren. Læste tarot for gruppen og gav fem kryptiske ledetråde til at bekæmpe Strahd. Vidste alle gruppens navne og skæbner.
+
+**Tarot-ledetråde (kort husket):**
+1. *"De to sværd"* – Find der hvor Barovia får sit livsblod, hvor historien trykkes
+2. *"De to mønter"* – En mægtig kilde til godhed og sikkerhed
+3. *"De tre øjne"* – (detaljer uklare)
+4. *"Tågen"* – En stærk allieret
+5. *"Bødlen"* – Om fjenden (Strahd)
+
+---
+
+#### Kasimir Velikoff
+**Type:** Drow | **Lokation:** Vistani-lejren på bakken nær Vallaki
+
+Leder af drow-folket, der lever som "honorary Vistani". Strahd dræbte alle kvindelige drow som straf efter at Kasimirs søster blev gjort til udød concubine. Han har set syner om et ravtempel der kan hjælpe mod Strahd.
+
+- Tilbød alliance med Thera mod Strahd (med et let flirtende element)
+- Gruppen har endnu ikke svaret ham
+
+---
+
+#### Fiona Watcher
+**Type:** Menneske | **Lokation:** Vallaki (nu hersker)
+
+Overtog magten i Vallaki efter at have fået den tidligere borgmester stenet ihjel med folkeopbakning. Er Strahd-sympatisør snarere end Strahd-fjende – mener han ikke er problemet, borgmesteren var. Farlig på sin egen måde.
+
+- Vil gerne have gruppen til at hjælpe hende – lovede dem pladser i sit råd
+- Gruppen har ikke lovet hende noget konkret
+
+---
+
+#### Abben
+**Type:** "Hellig mand" (Morgenherren/Nattens Moder) | **Lokation:** Klosteret ved Kresk
+
+Ekstremt mærkelig og creepy. Frankenstein-agtig karakter der bor i klosteret med chimera-"patienter". Vil skabe en ny Tatiana (Vasilka) til Strahd for at "omvende ham til lyset". Er kommet til Barovia udefra og sidder fast bag tågen.
+
+- Fiksede Dhors sjæl mod rødt hår til Vasilka
+- Genoplivede borgmester Kreskovs søn Ilva – som nu er fuldt undead
+- Er ikke undead selv, men meget divine på en skæv måde
+
+---
+
+#### Szoldar & Yevgeni
+**Type:** Mennesker | **Lokation:** Nær Kresk / omegnsskove
+
+To ulvejægere fra Vallaki. Robuste, pålidelige. Hjalp gruppen ind i Kresk med vin og har generelt samarbejdet godt.
+
+---
+
+#### Bogan
+**Type:** Menneske (vagt) | **Lokation:** Vallaki
+
+Venlig vagt i Vallaki. Lod gruppen undersøge vampyrspawn og kistemagerens hus som "okkulte konsulenter".
+
+---
+
+#### Erwin & Danika Martikov
+**Type:** Mennesker (Martikov-familien) | **Lokation:** Blue Water Inn, Vallaki
+
+Kroejer-parret på Blue Water Inn. Erwins familie ejer Wizard of Wines. Erwin bad gruppen tjekke vingården. Familien er muligvis werebears (ravne-temaet er stærkt).
+
+---
+
+#### Davian Martikov
+**Type:** Menneske/muligvis werebear | **Lokation:** Wizard of Wines / omegn
+
+Familiens overhoved. Vanskelig og irriterende, men fortalte gruppen at Trefors forbandelse kan brydes ved at dræbe den øverste lykantrop i skovene nær Kresk.
+
+---
+
+### ⚖️ Neutrale / Uafklarede
+
+---
+
+#### Richtavio
+**Type:** Menneske | **Lokation:** Blue Water Inn, Vallaki (sidst set)
+
+Farverigt klædt, rejsende "karneval-leder". Skriver i en bog. Meget tilbageholdende. Amara kom til Vallaki for at finde ham – han var gnotten. Mulig skjult identitet.
+
+---
+
+#### Borgmester Dimitri Kreskov
+**Type:** Menneske | **Lokation:** Kresk
+
+Borgmester i Kresk. Afviste først gruppen, men samarbejder nu. Hans søn Ilva er genoplivet af Abben og er nu fuldt undead – bider borgmesteren i Session 22.
+
+---
+
+#### Vasilka
+**Type:** Konstrueret væsen (undead) | **Lokation:** Klosteret ved Kresk
+
+Abbens "Frankenstein-brud" til Strahd. Syet og delvist forbrændt i ansigtet. Ligner Irena uhyggeligt meget. Har nu Dhors røde hår. Er et år gammel som "freak".
+
+---
+
+### 💀 Døde / Besejrede NPC'er
+
+| NPC | Skæbne | Session |
+|---|---|---|
+| **Felix** | Halshugget af Rakbak – var en dæmon i et barns krop | 10 |
+| **Henrik van der Voort** | Brændt til aske af Strahds fireball | 11 |
+| **Bella & Ophelia** (Marthas døtre) | Dræbt i møllen | 7 |
+| **Sir Garyk** | Dræbt af gruppen – sjæl gik ind i Dhor | 13 |
+| **Keril** (varulve-alpha) | Halshugget af Rakbak | 21 |
+| **Skinneis** (gammel varulv-alfa) | Dræbt i grotten | 20 |
+| **Den tidligere borgmester (Vallaki)** | Stenet ihjel af folkemængden under Fiona Watcher | 17 |
