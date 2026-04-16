@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2026-03-18 Session 23.md",
+                "file": "Sessions/2026-04-16 Session 24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-18 Session 23"
+              "title": "2026-04-16 Session 24"
             }
           }
         ],
@@ -188,8 +188,11 @@
   },
   "active": "bc6c44ba0a670602",
   "lastOpenFiles": [
-    "Sessions/2025-04-03 Session 7.md",
     "Sessions/2026-03-18 Session 23.md",
+    "Sessions/2026-04-16 Session 24.md",
+    "Sessions/2024-11-26 Session 2.md",
+    "Sessions/cos_campaign_overview.md",
+    "Sessions/2025-04-03 Session 7.md",
     "Sessions/2025-03-16 Session 6.md",
     "Karakterer/PC'er/Trefor Wójcik.md",
     "Sessions/2026-02-04 Session 22.md",
@@ -211,9 +214,6 @@
     "Sessions/2025-10-20 Session 15.md",
     "Sessions/2025-10-03 Session 14.md",
     "Sessions/2025-01-21 Session 5.md",
-    "Sessions/2024-19-12 Session 3.md",
-    "Sessions/2024-11-26 Session 2.md",
-    "Sessions/2024-11-12 Session 1.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot",
