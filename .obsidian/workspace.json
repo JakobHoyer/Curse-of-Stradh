@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2026-04-29 Session 25.md",
+                "file": "Sessions/2026-05-06 Session 26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-29 Session 25"
+              "title": "2026-05-06 Session 26"
             }
           }
         ]
@@ -173,8 +173,9 @@
   },
   "active": "bc6c44ba0a670602",
   "lastOpenFiles": [
-    "Karakterer/PC'er/Trefor Wójcik.md",
     "Sessions/2026-04-29 Session 25.md",
+    "Sessions/2026-05-06 Session 26.md",
+    "Karakterer/PC'er/Trefor Wójcik.md",
     "Sessions/2026-04-16 Session 24.md",
     "Sessions/2026-03-18 Session 23.md",
     "Sessions/2024-11-26 Session 2.md",
@@ -198,7 +199,6 @@
     "Sessions/2025-11-24 Session 17.md",
     "Sessions/2025-11-10 Session 16.md",
     "Sessions/2025-10-20 Session 15.md",
-    "Sessions/2025-10-03 Session 14.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot",
