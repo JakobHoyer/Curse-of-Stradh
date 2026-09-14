@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2026-08-17 Session 31.md",
+                "file": "Sessions/2026-09-14 Session 32.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-17 Session 31"
+              "title": "2026-09-14 Session 32"
             }
           }
         ]
@@ -175,8 +175,9 @@
   },
   "active": "035247180b76d63a",
   "lastOpenFiles": [
-    "Sessions/2026-07-11 Session 29.md",
     "Sessions/2026-08-17 Session 31.md",
+    "Sessions/2026-09-14 Session 32.md",
+    "Sessions/2026-07-11 Session 29.md",
     "Sessions/README.md",
     "Untitled 2.md",
     "Untitled 1.md",
@@ -201,7 +202,6 @@
     "Sessions/2025-05-24 Session 9.md",
     "Sessions/2025-08-11 Session 10.md",
     "Sessions/2025-04-28 Session 8.md",
-    "Karakterer/PC'er/Thornley.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot",
